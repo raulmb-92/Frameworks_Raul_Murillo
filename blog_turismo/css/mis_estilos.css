@@ -1,0 +1,156 @@
+body{
+	background: url(../imagenes/fondo.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.nav-wrapper{
+	background-color: #b0bec5;
+}
+#logo{
+	width: 75%;
+	height: 130px;
+}
+
+#titulo{
+	font-family: Indie Flower Normal;
+	font-size: 20px;
+	background-color: #b0bec5;
+}
+
+.redes{
+	width: 50%;
+	height: 50px;
+}
+
+#foto1{
+	width: 100%;
+	height: 150px;
+	padding: 2%;
+	border-radius: 5%;
+	border: 2px solid yellow;
+}
+
+#foto2{
+	width: 100%;
+	height: 150px;
+	padding: 2%;
+	border-radius: 5%;
+	border: 2px solid yellow;
+}
+
+#foto3{
+	width: 100%;
+	height: 150px;
+	padding: 2%;
+	border-radius: 5%;
+	border: 2px solid yellow;
+}
+
+#foto4{
+	width: 100%;
+	height: 300px;
+	padding: 2%;
+	border-radius: 5%;
+	border: 2px solid yellow;
+}
+
+#foto5{
+	width: 100%;
+	height: 300px;
+	padding: 2%;
+	border-radius: 5%;
+	border: 2px solid yellow;
+}
+
+#foto6{
+	width: 100%;
+	height: 135px;
+	padding: 2%;
+	border-radius: 5%;
+	border: 2px solid yellow;
+}
+
+#foto7{
+	width: 100%;
+	height: 135px;
+	padding: 2%;
+	border-radius: 5%;
+	border: 2px solid yellow;
+}
+
+#foto8{
+	width: 100%;
+	height: 135px;
+	padding: 2%;
+	border-radius: 5%;
+	border: 2px solid yellow;
+}
+
+#foto9{
+	width: 100%;
+	height: 135px;
+	padding: 2%;
+	border-radius: 5%;
+	border: 2px solid yellow;
+}
+
+.testi{
+	background-color: white;
+	padding: 2%;
+	text-align: justify;
+	margin-right: 2%;
+}
+
+.formulario{
+	background-color: gray;
+	padding: 2%;
+}
+
+#mazamitla{
+	float: left;
+}
+
+#mazatlan{
+	float: left;
+}
+
+#desautor{
+	background-color: white;
+	text-align: center;
+	padding: 2%;
+}
+
+#autor{
+	width: 100%;
+	height: 250px;
+}
+
+#perfil{
+	font-family: Indie Flower Normal;
+	font-size: 30px;
+}
+
+@media(max-width:991px){
+	body{
+		padding-left: 1% !important;
+		padding-right: 1% !important;
+	}
+	#mazamitla{
+		width: 100%;
+	}
+	#mazatlan{
+		width: 100%;
+	}
+}
+
+@media(min-width:992px){
+	body{
+		padding-left: 1% !important;
+		padding-right: 1% !important;
+	}
+}
